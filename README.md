@@ -1,1 +1,1 @@
-Python / C++ / JavaScript / 競技プログラミング / ヒューリスティクス / Webアプリ
+Python / C++ / JavaScript / 競技プログラミング / ヒューリスティック / Webアプリ
