@@ -1,1 +1,1 @@
-Python / C++ / JavaScript / 競技プログラミング / 数理最適化 / Webアプリ
+Python / C++ / JavaScript / 競技プログラミング / ヒューリスティクス / Webアプリ
